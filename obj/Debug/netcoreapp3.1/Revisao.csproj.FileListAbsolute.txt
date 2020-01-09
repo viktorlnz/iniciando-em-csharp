@@ -1,0 +1,11 @@
+C:\Users\Lenz\Desktop\dev\dotnet\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+C:\Users\Lenz\Desktop\dev\dotnet\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+C:\Users\Lenz\Desktop\dev\dotnet\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+C:\Users\Lenz\Desktop\dev\dotnet\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+C:\Users\Lenz\Desktop\dev\dotnet\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\Lenz\Desktop\dev\dotnet\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\Lenz\Desktop\dev\dotnet\Revisao\obj\Debug\netcoreapp3.1\Revisao.csprojAssemblyReference.cache
+C:\Users\Lenz\Desktop\dev\dotnet\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+C:\Users\Lenz\Desktop\dev\dotnet\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+C:\Users\Lenz\Desktop\dev\dotnet\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\Lenz\Desktop\dev\dotnet\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
